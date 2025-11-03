@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-https://i.pinimg.com/736x/b5/ae/9e/b5ae9e934de9f162e61da057d464e54c.jpg
+<img width="320" height="355" alt="image" src="https://github.com/user-attachments/assets/1cc876d3-ba2a-4122-b203-25df320428ed" />
 <!--
 **Revan115x/revan115x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
