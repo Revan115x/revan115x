@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 <img width="110" center height="100" alt="image" src="https://github.com/user-attachments/assets/1cc876d3-ba2a-4122-b203-25df320428ed" />
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **Revan115x/revan115x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
