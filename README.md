@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/9c/c1/db/9cc1db91d61c53eb9de2989070e6ac38.gif" width="25%" align="right" heigth=550px />
+<img src="https://i.pinimg.com/originals/9c/c1/db/9cc1db91d61c53eb9de2989070e6ac38.gif" width="15%" align="right" heigth=550px />
 
-<img src="https://i.pinimg.com/originals/9c/c1/db/9cc1db91d61c53eb9de2989070e6ac38.gif" width="25%" align="left" heigth=550px />
+<img src="https://i.pinimg.com/originals/9c/c1/db/9cc1db91d61c53eb9de2989070e6ac38.gif" width="15%" align="left" heigth=550px />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Condensed&weight=900&size=30&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&repeat=false&width=435&lines=Hello%2C+my+name+is++....;Revan" alt="Typing SVG" /></a>
 <br>
