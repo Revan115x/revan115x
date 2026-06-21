@@ -12,7 +12,7 @@
   MM   `Mb.   MM     ,M      :MM;       A'     VML    M     YMM  
 .JMML. .JMM..JMMmmmmMMM       VF      .AMA.   .AMMA..JML.    YM  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=F76700&center=true&vCenter=true&width=435&height=109&lines=Welcome+to+my+repository" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&size=40&pause=1000&color=F76700&center=true&vCenter=true&width=435&height=109&lines=Welcome+to+my+repository" alt="Typing SVG" /></a><br>
   
 </pre>
 
@@ -37,7 +37,7 @@
 ## 📊 GitHub Stats
 
 
-<img src="img\deadpool1.png" align="right" height="250">
+<img src="img\deadpool1.png" align="right" height="250"> <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Revan115x&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Revan115x's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revan115x&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Revan115x's GitHub Stats" />
