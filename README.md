@@ -42,5 +42,7 @@
 
 <img src="img\deadpool1.png" align="right" height="250"> 
 
+<img src="https://streak-stats.demolab.com?user=Revan115x&theme=dark&hide_border=true" alt="Revan115x's GitHub Stats" />
+
 </div>
 
