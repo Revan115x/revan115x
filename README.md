@@ -44,6 +44,8 @@
 
 <img src="https://streak-stats.demolab.com?user=Revan115x&theme=dark&hide_border=true" alt="Revan115x's GitHub Stats" /><br>
 
-<img src="https://i.pinimg.com/originals/93/33/81/93338121b5740dca5013b9fdfc9566a3.gif" width="750" heigth="30px">
+<img src="https://i.pinimg.com/originals/93/33/81/93338121b5740dca5013b9fdfc9566a3.gif">
+
+<img src="https://i.pinimg.com/originals/93/33/81/93338121b5740dca5013b9fdfc9566a3.gif">
 
 </div>
